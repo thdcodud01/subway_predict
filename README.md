@@ -34,12 +34,11 @@ ARIMA, LSTM, Prophet 모델을 활용하여 성능을 비교하였고, Auto_ARIM
 
 ### 2️⃣ Colab 노트북 열기
 
-- [Run in Colab (Open Notebook)](Colab 링크 작성 가능)
+- [Run in Colab (Open Notebook) (https://colab.google/) ](Colab 링크)
 
 ### 3️⃣ 실행
 
-- 첫 번째 Cell에서 Google Drive mount 코드 실행
-- 이후 코드 순서대로 실행
+- 첫 번째 Cell 부터 코드 순서대로 실행
 
 ---
 
