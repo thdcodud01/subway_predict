@@ -20,7 +20,7 @@ ARIMA, LSTM, Prophet 모델을 활용하여 성능을 비교하였고, Auto_ARIM
 
 - 🔗 [[2023_raw.csv 다운로드](https://drive.google.com/file/d/1R9l5_RMWFhx28etgt9T_OncJt7Dk0YSg/view?usp=sharing)]
 
-- 🔗 [[prediction.csv 다운로드]((https://drive.google.com/file/d/1F7o_TdxGpwdUhaRDo678qiiTv69B0lQn/view?usp=sharing))]
+- 🔗 [[prediction.csv 다운로드](https://drive.google.com/file/d/1F7o_TdxGpwdUhaRDo678qiiTv69B0lQn/view?usp=sharing)]
 
 ---
 
